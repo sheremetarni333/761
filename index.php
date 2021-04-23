@@ -24,7 +24,6 @@
     }
   </style>
 </head>
-
 <body class="">
   <img height="1" width="1" style="display:none" src="assets/tracking.php">
   <div class="page container">
@@ -92,7 +91,7 @@
               <p><strong>Marie</strong> : « Après de nombreuses recherches, j'ai remarqué un aspect récurrent : De nombreuses célébrités sont absolument enthousiasmées par une plante très spécifique : la leucine. Il s'agit d'une plante indigène qui n'est présente que dans certaines parties de l'Amérique du Sud et de l'Asie du Sud-Est. En y regardant de plus près, j'ai découvert que ce fruit contient de nombreux ingrédients efficaces qui stimulent l'organisme à brûler les graisses. En fin de compte, la leucine est la pièce manquante de mon puzzle ! »</p>
             </div>
             <div class="text">
-              <p>J'ai rapidement découvert que les ingrédients actifs de ce fruit sont également disponibles sous la forme d'un complément alimentaire concentré et 100% naturel appelé <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>Keto Biolife</strong></a>. J'ai immédiatement commandé un paquet d'échantillons. Il contenait exactement une ration mensuelle. Bien sûr, j'ai d'abord testé les gouttes moi-même en laboratoire. En fait, ils contiennent 100 % de leucine. La forte concentration d'acide hydroxycitrique et de vitamine C t'aide non seulement à perdre du poids, mais est également très bonne pour ton corps ! Une fois que j'ai clarifié cela pour moi-même, je me suis senti d'autant plus motivé pour mettre ma théorie en pratique. Ainsi, le résultat parle de lui-même, n'est-ce pas ?</p>
+              <p>J'ai rapidement découvert que les ingrédients actifs de ce fruit sont également disponibles sous la forme d'un complément alimentaire concentré et 100% naturel appelé <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>KETO Advanced 1500</strong></a>. J'ai immédiatement commandé un paquet d'échantillons. Il contenait exactement une ration mensuelle. Bien sûr, j'ai d'abord testé les gouttes moi-même en laboratoire. En fait, ils contiennent 100 % de leucine. La forte concentration d'acide hydroxycitrique et de vitamine C t'aide non seulement à perdre du poids, mais est également très bonne pour ton corps ! Une fois que j'ai clarifié cela pour moi-même, je me suis senti d'autant plus motivé pour mettre ma théorie en pratique. Ainsi, le résultat parle de lui-même, n'est-ce pas ?</p>
             </div>
             <div class="text">
               <p><strong>CP</strong> : C'est génial ! Peux-tu m'expliquer comment cela fonctionne ?</p>
@@ -104,7 +103,7 @@
               <p><strong>CP</strong> : Comment puis-je m'en servir pour perdre du poids ? Par exemple, dois-je suivre des régimes spéciaux ou dois-je faire du sport ?</p>
             </div>
             <div class="text">
-              <p><strong>Marie</strong> : Tu prends simplement 3 à 5 gouttes deux fois par jour. Une fois au petit déjeuner et une autre fois au dîner. Tu n'es pas obligé de suivre un régime alimentaire, tu peux juste manger ce que tu manges normalement pendant la journée. Tu n'as pas non plus à faire de sport supplémentaire. La solution parfaite pour moi ! Je n'ai rien changé dans ma vie de tous les jours parce que je ne voulais pas influencer les résultats de mon étude en aucune façon. Bientôt, j'ai remarqué une différence, surtout au niveau de l'estomac. Mais je n'ai jamais cru que je perdrais autant de poids après seulement un mois de consommation de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>Keto Biolife</strong></a> !</p>
+              <p><strong>Marie</strong> : Tu prends simplement 3 à 5 gouttes deux fois par jour. Une fois au petit déjeuner et une autre fois au dîner. Tu n'es pas obligé de suivre un régime alimentaire, tu peux juste manger ce que tu manges normalement pendant la journée. Tu n'as pas non plus à faire de sport supplémentaire. La solution parfaite pour moi ! Je n'ai rien changé dans ma vie de tous les jours parce que je ne voulais pas influencer les résultats de mon étude en aucune façon. Bientôt, j'ai remarqué une différence, surtout au niveau de l'estomac. Mais je n'ai jamais cru que je perdrais autant de poids après seulement un mois de consommation de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>KETO Advanced 1500</strong></a> !</p>
             </div>
             <div>
               <figure>
@@ -115,7 +114,7 @@
               </figure>
             </div>
             <div class="default">
-              <h3>L'efficacité de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank">Keto Biolife</a> a été cliniquement prouvée :</h3></div>
+              <h3>L'efficacité de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank">KETO Advanced 1500</a> a été cliniquement prouvée :</h3></div>
             <div class="text">
               <p>1. Il augmente le taux métabolique au repos de <strong>plus de 130 %</strong>.
                 <br>2. Éliminer les toxines nocives
@@ -131,27 +130,27 @@
               </figure>
             </div>
             <div class="text">
-              <p>Nous avons contacté le fournisseur officiel de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>Keto Biolife</strong></a> en Allemagne. Ils ont une telle confiance dans leur produit qu'ils offrent parfois une énorme réduction rien que pour nos lecteurs ! Jetez un coup d'œil à une brève section du rapport de recherche de Marie et voyez quels avantages vous pouvez bénéficier de cette offre :</p>
+              <p>Nous avons contacté le fournisseur officiel de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>KETO Advanced 1500</strong></a> en Allemagne. Ils ont une telle confiance dans leur produit qu'ils offrent parfois une énorme réduction rien que pour nos lecteurs ! Jetez un coup d'œil à une brève section du rapport de recherche de Marie et voyez quels avantages vous pouvez bénéficier de cette offre :</p>
             </div>
             <div class="default">
               <h3>Première semaine :</h3></div>
             <div class="text">
-              <p>Après avoir pris les gouttes <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>Keto Biolife</strong></a> matin et soir, je peux déjà faire état de résultats positifs. Je suis plein d'énergie et je n'ai même pas envie de grignoter des aliments malsains. C'est un effet secondaire positif de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>Keto Biolife</strong></a> : La sensation de faim disparaît. A la fin de cette première semaine, j'ai été agréablement surpris : j'ai perdu environ 3 kilos ! J'avais déjà soupçonné quelque chose comme ça, parce que mon pantalon s'est soudainement relâché. C'est un bon début !</p>
+              <p>Après avoir pris les gouttes <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>KETO Advanced 1500</strong></a> matin et soir, je peux déjà faire état de résultats positifs. Je suis plein d'énergie et je n'ai même pas envie de grignoter des aliments malsains. C'est un effet secondaire positif de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>KETO Advanced 1500</strong></a> : La sensation de faim disparaît. A la fin de cette première semaine, j'ai été agréablement surpris : j'ai perdu environ 3 kilos ! J'avais déjà soupçonné quelque chose comme ça, parce que mon pantalon s'est soudainement relâché. C'est un bon début !</p>
             </div>
             <div class="default">
               <h3>Deuxième semaine :</h3></div>
             <div class="text">
-              <p>Tout d'abord, je tiens à souligner ce qui suit : Je n'ai rien changé dans ma vie avant de commencer à prendre <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>Keto Biolife</strong></a> - pour influencer le moins possible mes résultats. Ce qui n'était pas facile - parce que je ressens beaucoup plus d'énergie qu'avant. Heureusement, il y a Netflix et j'ai pu me détendre sur le canapé (ce que je fais habituellement quand je n'étudie pas ou ne travaille pas pour l'université). Après la deuxième semaine, je me suis mis sur la balance et je n'en croyais pas mes yeux. J'avais déjà perdu 6,3 kilos ! Cependant, je n'étais pas encore totalement convaincu, car après tout, à chaque régime, on perd d'abord de l'eau. Je voulais attendre les résultats dans les semaines à venir.</p>
+              <p>Tout d'abord, je tiens à souligner ce qui suit : Je n'ai rien changé dans ma vie avant de commencer à prendre <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>KETO Advanced 1500</strong></a> - pour influencer le moins possible mes résultats. Ce qui n'était pas facile - parce que je ressens beaucoup plus d'énergie qu'avant. Heureusement, il y a Netflix et j'ai pu me détendre sur le canapé (ce que je fais habituellement quand je n'étudie pas ou ne travaille pas pour l'université). Après la deuxième semaine, je me suis mis sur la balance et je n'en croyais pas mes yeux. J'avais déjà perdu 6,3 kilos ! Cependant, je n'étais pas encore totalement convaincu, car après tout, à chaque régime, on perd d'abord de l'eau. Je voulais attendre les résultats dans les semaines à venir.</p>
             </div>
             <div class="default">
               <h3>Troisième semaine :</h3></div>
             <div class="text">
-              <p>Après 3 semaines, tous mes doutes et mon scepticisme avaient complètement disparu ! Ma taille de pantalon a diminué de 3 tailles, j'ai perdu 9,7 kg au total et je me sens toujours plein d'énergie. Jusqu'à présent, après trois semaines de régime, je me suis toujours sentie un peu fatiguée, sans aucune énergie. Mais avec <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>Keto Biolife</strong></a>, mon niveau d'énergie n'a pas du tout baissé, je reste en forme toute la journée.</p>
+              <p>Après 3 semaines, tous mes doutes et mon scepticisme avaient complètement disparu ! Ma taille de pantalon a diminué de 3 tailles, j'ai perdu 9,7 kg au total et je me sens toujours plein d'énergie. Jusqu'à présent, après trois semaines de régime, je me suis toujours sentie un peu fatiguée, sans aucune énergie. Mais avec <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>KETO Advanced 1500</strong></a>, mon niveau d'énergie n'a pas du tout baissé, je reste en forme toute la journée.</p>
             </div>
             <div class="default">
               <h3>Quatrième semaine :</h3></div>
             <div class="text">
-              <p>Incroyable. C'est en fait le seul mot qui me vient à l'esprit. Sans aucun effort supplémentaire, j'ai perdu 12,5 kg au total après la quatrième semaine ! La prise de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>Keto Biolife</strong></a> est la seule chose qui a changé dans mon alimentation. Bien sûr, je suis très heureux de mon apparence actuelle. Mais je suis encore plus fier que ma théorie fonctionne en pratique ! J'ai hâte de faire part de mes découvertes à mes professeurs. Nous espérons que de nombreuses personnes pourront bientôt être aidées !</p>
+              <p>Incroyable. C'est en fait le seul mot qui me vient à l'esprit. Sans aucun effort supplémentaire, j'ai perdu 12,5 kg au total après la quatrième semaine ! La prise de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>KETO Advanced 1500</strong></a> est la seule chose qui a changé dans mon alimentation. Bien sûr, je suis très heureux de mon apparence actuelle. Mais je suis encore plus fier que ma théorie fonctionne en pratique ! J'ai hâte de faire part de mes découvertes à mes professeurs. Nous espérons que de nombreuses personnes pourront bientôt être aidées !</p>
             </div>
             <div>
               <figure>
@@ -162,21 +161,18 @@
               </figure>
             </div>
             <div class="text">
-              <p><strong>NOTE DE LA RÉDACTION</strong> : En coopération avec Marie Ansel et en tant que fournisseur officiel de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>Keto Biolife</strong></a>, nous pouvons faire une offre exclusive à nos lecteurs. Ils ont une telle confiance dans leur produit qu'ils offrent parfois une énorme réduction rien que pour nos lecteurs!</p>
+              <p><strong>NOTE DE LA RÉDACTION</strong> : En coopération avec Marie Ansel et en tant que fournisseur officiel de <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><strong>KETO Advanced 1500</strong></a>, nous pouvons faire une offre exclusive à nos lecteurs. Ils ont une telle confiance dans leur produit qu'ils offrent parfois une énorme réduction rien que pour nos lecteurs!</p>
               <p><b>Profitez de notre lien exclusif et ne payez que les frais de port !</b></p>
             </div>
             <div class="row">
-              <div class="col-sm-6">
+              <div>
                 <div class="neos-contentcollection">
                   <div>
                     <figure>
-                      <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><img class="img-fluid" src="assets/prod.png" title="" alt="" data-mobile-src=""></a>
+                      <a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" target="_blank"><img class="img-fluid" src="assets/advanced.png" title="" alt="" data-mobile-src=""></a>
                     </figure>
                   </div>
                 </div>
-              </div>
-              <div class="col-sm-6">
-                <div class="neos-contentcollection"><a href="https://enjoyt.life/?r4oic=c23594300593954181a66&t6nuyztgsk=exclusifreportagefr.herokuapp.com&l8pwabmz=heroku" class="btn bg-primary-color btn-lg" target="_blank">OBTENEZ VOTRE BOUTEILLE D'ÉCHANTILLON GRATUITE</a></div>
               </div>
             </div>
             <div id="facebook-comments">
@@ -277,11 +273,8 @@
       </div>
     </section>
   </div>
-
   <script src="assets/jquery-3.5.1.min.js" type="text/javascript"></script>
   <script src="assets/Main.js" type="text/javascript"></script>
   <script async="" data-neos-node="/sites/seven-moneypages/node-f0qs7km5qlvm4@live;language=fr_FR,be_FR" src="assets/LastVisitedNode.js" type="text/javascript"></script>
-
 </body>
-
 </html>
