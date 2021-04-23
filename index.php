@@ -165,7 +165,7 @@
               <p><b>Profitez de notre lien exclusif et ne payez que les frais de port !</b></p>
             </div>
             <div class="row">
-              <div class="col-sm-6">
+              <div>
                 <div class="neos-contentcollection">
                   <div>
                     <figure>
@@ -173,9 +173,6 @@
                     </figure>
                   </div>
                 </div>
-              </div>
-              <div class="col-sm-6">
-                <div class="neos-contentcollection"><a href="https://enjoyt.life/?w4oic=c236598f0e91630c70599&g2jquvpcog=exclusifreportage.herokuapp.com&y5mtxyjw=heroku" class="btn bg-primary-color btn-lg" target="_blank">OBTENEZ VOTRE BOUTEILLE D'ÉCHANTILLON GRATUITE</a></div>
               </div>
             </div>
             <div id="facebook-comments">
